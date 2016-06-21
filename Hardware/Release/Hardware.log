@@ -1,0 +1,31 @@
+﻿Build started 6/21/2016 16:21:53.
+     1>Project "F:\Bunker Hill\CIT-284\Hardware\Hardware\Hardware.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\Hardware.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Hardware.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt AddToCart.cpp Checkout.cpp DisplayCart.cpp Hardware.cpp HardwareDlg.cpp RemoveFromCart.cpp
+         AddToCart.cpp
+         Checkout.cpp
+         DisplayCart.cpp
+         Hardware.cpp
+         HardwareDlg.cpp
+         RemoveFromCart.cpp
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /IRelease\ /nologo /fo"Release\Hardware.res" Hardware.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\Bunker Hill\CIT-284\Hardware\Release\Hardware.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"F:\Bunker Hill\CIT-284\Hardware\Release\Hardware.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\Bunker Hill\CIT-284\Hardware\Release\Hardware.lib" /MACHINE:X86 /SAFESEH Release\Hardware.res
+         Release\AddToCart.obj
+         Release\Checkout.obj
+         Release\DisplayCart.obj
+         Release\Hardware.obj
+         Release\HardwareDlg.obj
+         Release\RemoveFromCart.obj
+         Release\stdafx.obj
+         Generating code
+         Finished generating code
+         Hardware.vcxproj -> F:\Bunker Hill\CIT-284\Hardware\Release\Hardware.exe
+     1>Done Building Project "F:\Bunker Hill\CIT-284\Hardware\Hardware\Hardware.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:49.51
